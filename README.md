@@ -30,5 +30,5 @@ Learning and implementing the MERN Stack to create a compelling and versatile po
 
 I'm always open to collaboration and learning opportunities. Feel free to reach out to me if you share similar interests or have exciting projects in mind.
 
-[E-mail](martin@koeth.tech)
+E-mail: martin@koeth.tech \
 Thank you for visiting my GitHub repository. I look forward to sharing and learning from the coding community!
