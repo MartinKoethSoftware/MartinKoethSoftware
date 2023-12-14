@@ -11,10 +11,14 @@ Welcome to my GitHub repository! I'm a passionate and curious individual who emb
 
 My fascination with software and its inner workings motivated me to dive into the world of coding at the age of 14. I began my coding journey with more playful projects, including coding plugins for games and programming games using Unity. Over time, my interests have evolved, and I've delved into the exciting realm of machine learning. I have acquired proficiency in various programming languages and expanded my skill set to include not only coding but also video and image editing as well as graphic design. Here's a snapshot of my skills:
 
-#### Programming Languages:
-Java \
-Python \
-C#
+#### Avanced using:
++ Java
++ Python
++ C#
+
+#### Intermediate using:
++ Julia
++ Kotlin
 #### Additional Skills:
 Video and Image Editing \
 Graphic Design
