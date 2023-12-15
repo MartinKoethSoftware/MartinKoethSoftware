@@ -19,9 +19,11 @@ My fascination with software and its inner workings motivated me to dive into th
 #### Intermediate using:
 + Julia
 + Kotlin
+
 #### Additional Skills:
-Video and Image Editing \
-Graphic Design
++ Unity Game Engine
++ Video and Image Editing
++ Graphic Design
 
 ## Current Focus
 
