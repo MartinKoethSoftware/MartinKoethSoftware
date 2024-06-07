@@ -12,6 +12,7 @@ Welcome to my GitHub repository! I'm a passionate and curious individual who emb
 My fascination with software and its inner workings motivated me to dive into the world of coding at the age of 14. I began my coding journey with more playful projects, including coding plugins for games and programming games using Unity. Over time, my interests have evolved, and I've delved into the exciting realm of machine learning. I have acquired proficiency in various programming languages and expanded my skill set to include not only coding but also video and image editing as well as graphic design. Here's a snapshot of my skills:
 
 #### Avanced using:
++ JavaScript
 + Java
 + Python
 + C#
@@ -29,8 +30,8 @@ My fascination with software and its inner workings motivated me to dive into th
 
 Machine Learning Optimization:
 Actively engaged in enhancing my machine learning skills and techniques.
-MERN Stack Development:
-Learning and implementing the MERN Stack to create a compelling and versatile portfolio.
+Webdevelopment:
+Learning and implementing react, express.js, node.js and mySql to create a compelling and versatile portfolio.
 
 ## Connect With Me
 
