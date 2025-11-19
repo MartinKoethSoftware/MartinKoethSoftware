@@ -1,7 +1,7 @@
 ## Personal Information
 
 Name: Martin Köth \
-Age: 19
+Age: 20
 
 ## Introduction
 
